@@ -1,5 +1,16 @@
 {
     "name": "calcpvp1",
     "version": "0.0.1",
-    "main": "calc1"
+    "main": "calc1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jeevansai76/calcpvp1.git"
+    },
+    "keywords": [
+        "calc1","calcpvp1"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
 }
